@@ -1,4 +1,4 @@
-# UBC Hyperloop Team - Vision Statement
+# UBC Hyperloop - Vision Statement
 
 In August of 2019, I presented a vision statement to the UBC Engineering Department on the need to create a UBC Hyperloop student design team. This vision statement was motivated by challenges currently facing society and my experience in helping to found the UBC UAS team.
 
